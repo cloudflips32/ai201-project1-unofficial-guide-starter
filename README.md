@@ -1,5 +1,7 @@
 # The Unofficial Guide — Project 1
 
+<img src="https://www.codepath.org/hs-fs/hubfs/logoblack.png?width=937&height=87&name=logoblack.png" alt="CodePath Logo" style="display: block; margin: 0 auto 18px;" />
+
 > **How to use this template:**
 > Complete each section *after* you've built and tested the corresponding part of your system.
 > Do not write placeholder text — if a section isn't done yet, leave it blank and come back.

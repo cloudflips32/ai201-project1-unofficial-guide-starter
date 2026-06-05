@@ -26,12 +26,12 @@ Orgs and Events @ Florida Southwestern State College
 | 2 | programs        |      prog list      | https://www.fsw.edu/academics/programs
 | 3 | admissions      |      admiss. info   | https://www.fsw.edu/admissions
 | 4 | events          |      calendar       | https://fsw.presence.io/events
-| 5 | organizations   | list of all orgs    | https://fsw.presence.io/organizations
+| 5 | organizations   |   list of all orgs  | https://fsw.presence.io/organizations
 | 6 | contact         |      cont. info     | https://www.fsw.edu/about/contact
 | 7 | career connect. |      work assist    | https://fsw.presence.io/organization/career-connection-center
 | 8 | stu. leadership |   foster leadership | https://fsw.presence.io/organization/student-leadership
-| 9 | student media   | student media fsw   | https://fsw.presence.io/organization/buc-breakdown-fsw-student-media
-| 10 | SGA            | student gov desc.   | https://fsw.presence.io/organization/student-government-association-lee-3
+| 9 | student media   |   student media fsw | https://fsw.presence.io/organization/buc-breakdown-fsw-student-media
+| 10 | SGA            |   student gov desc. | https://fsw.presence.io/organization/student-government-association-lee-3
 
 ---
 
