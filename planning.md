@@ -11,6 +11,8 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+Orgs and Events @ Florida Southwestern State College
+
 ---
 
 ## Documents
@@ -18,18 +20,18 @@
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| # |      Source     |     Description     |                      URL or location                         |
+|---|-----------------|---------------------|--------------------------------------------------------------|
+| 1 | coll site       |      main site      | https://www.fsw.edu
+| 2 | programs        |      prog list      | https://www.fsw.edu/academics/programs
+| 3 | admissions      |      admiss. info   | https://www.fsw.edu/admissions
+| 4 | events          |      calendar       | https://fsw.presence.io/events
+| 5 | contact         |      cont. info     | https://www.fsw.edu/about/contact
+| 6 | career connect. |      work assist    | https://fsw.presence.io/organization/career-connection-center
+| 7 | stu. leadership |   foster leadership | https://fsw.presence.io/organization/student-leadership
+| 8 | organizations   | list of all orgs    | https://fsw.presence.io/organizations
+| 9 | student media   | student media fsw   | https://fsw.presence.io/organization/buc-breakdown-fsw-student-media
+| 10 | SGA            | student gov desc.   | https://fsw.presence.io/organization/student-government-association-lee-3
 
 ---
 
@@ -42,10 +44,13 @@
 
 **Chunk size:**
 
+70
 **Overlap:**
 
+7
 **Reasoning:**
 
+Large enough for beneficial information, small enough for optimal readability.
 ---
 
 ## Retrieval Approach
