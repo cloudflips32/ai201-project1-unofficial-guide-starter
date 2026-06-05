@@ -1,7 +1,7 @@
 # The Unofficial Guide — Project 1
 
 <p style="display: block; margin: 0 auto 18px; background-color: #FFF;">
-     <img src="https://www.codepath.org/hs-fs/hubfs/logowhite.png?width=937&height=87&name=logowhite.png" alt="CodePath Logo" style="display: block; margin: 0 auto 18px; background-color: #FFF;" />
+     <img src="codepath_logo.png" alt="CodePath Logo" style="display: block; margin: 0 auto 18px; background-color: #FFF;" />
 </p>
 
 > **How to use this template:**
