@@ -44,10 +44,12 @@ Orgs and Events @ Florida Southwestern State College
 
 **Chunk size:**
 
-70
+300
+
 **Overlap:**
 
-7
+25
+
 **Reasoning:**
 
 Large enough for beneficial information, small enough for optimal readability.
@@ -66,9 +68,15 @@ Large enough for beneficial information, small enough for optimal readability.
 
 **Embedding model:**
 
+all-MiniLM-L6-v2 via sentence-transformers
+
 **Top-k:**
 
+3 chunks per query
+
 **Production tradeoff reflection:**
+
+Ensure accuracy through citations, apply multilingual support based on system settings
 
 ---
 
